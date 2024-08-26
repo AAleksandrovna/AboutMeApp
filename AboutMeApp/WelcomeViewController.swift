@@ -22,5 +22,6 @@ final class WelcomeViewController: UIViewController {
 
     @IBAction func logOutButtonPressed() {
         dismiss(animated: true)
+        
     }
 }
